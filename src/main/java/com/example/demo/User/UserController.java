@@ -1,5 +1,6 @@
 package com.example.demo.User;
 
+import com.example.demo.model.UserTable;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
